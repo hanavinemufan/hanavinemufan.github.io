@@ -80697,7 +80697,7 @@ p=t.V
 o=t.Q
 q.CW=new A.bF(new A.au($.ae,p),o)
 n=A.bl("dataSourceDescription")
-switch(0){case 0:n.b=new A.Yf()
+switch(1){case 1:n.b=new A.Yf()
 break}s=2
 return A.H(A.nk().agE(n.aW()),$async$fK)
 case 2:m=b
@@ -84312,7 +84312,7 @@ B.bV=new A.qK(B.k9,null,null,null,null,null,null,null)
 B.aV=new A.HB(0,"base")
 B.i_=new A.HB(1,"elevated")
 B.Bh=new A.Ye(1,"latency")
-B.T1=new A.Yg(0,"asset")
+B.T1=new A.Yg(1,"network")
 B.Bi=new A.wI(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Bj=new A.wJ(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.lx=new A.nK(0,"uninitialized")

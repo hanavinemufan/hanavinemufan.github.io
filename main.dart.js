@@ -78375,13 +78375,13 @@ A.BZ.prototype={
 av(){var s,r=this
 r.aU()
 r.Q=!0
-s=A.aqJ("assets/videos/cover.mp4")
+s=A.aqJ("https://hanavinemufan.github.io/assets/assets/videos/cover.mp4")
 r.w!==$&&A.b3()
 r.w=s
-s=A.aqJ("assets/videos/cover_repeat.mp4")
+s=A.aqJ("https://hanavinemufan.github.io/assets/assets/videos/cover_repeat.mp4")
 r.x!==$&&A.b3()
 r.x=s
-s=A.aqJ("assets/videos/cover_reversed.mp4")
+s=A.aqJ("https://hanavinemufan.github.io/assets/assets/videos/cover_reversed.mp4")
 r.y!==$&&A.b3()
 r.y=s
 r.js()},

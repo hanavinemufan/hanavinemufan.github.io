@@ -3,13 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "ebe097ca431ea4d1d2fc937a2a3b05be",
+const RESOURCES = {"flutter_bootstrap.js": "1da7e67ad090040271f93ed7bde49039",
 "version.json": "beab5fbfcd72f6b88b49534eda6d7095",
 "index.html": "dd3da6f2a06f205f536bc2037421f429",
 "/": "dd3da6f2a06f205f536bc2037421f429",
-"main.dart.js": "9a3b89bedcfa17d83904a1fcdb1ab7d3",
+"main.dart.js": "d5ef274d62c579bff422955646aae8b9",
 "flutter.js": "76f08d47ff9f5715220992f993002504",
 "favicon.png": "7d6c712a62d2413e2a8f37c9fee5bc70",
+"icons/Icon-192.png": "75a7d977daf01db316b0a39bca27207b",
+"icons/Icon-maskable-192.png": "f82008ebcfedfcf2c7d3802b202f157b",
+"icons/Icon-maskable-512.png": "8c6023b7515d9d49ab464ec0132a9426",
+"icons/Icon-512.png": "b1af4699a8dfbf2f92908a59d3cfeac3",
 "manifest.json": "ac95391fb1537d404e3f1ae9bfd2b54e",
 "assets/AssetManifest.json": "32e44949d18bf0fbb638e70e60088527",
 "assets/NOTICES": "97fbb68bd437c8c30a0049aaeed0d2f1",

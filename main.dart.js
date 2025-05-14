@@ -78206,7 +78206,7 @@ $1(a){return A.v(t.N,t.z)},
 $S:491}
 A.JU.prototype={
 L(a){var s=null
-return new A.yq(B.Rs,"Nemu Music Player",A.tM(B.yq,s,A.atv(B.Z,s,s,B.H_),s),s)}}
+return new A.yq(B.Rs,"\ud558\ub098\ube44 \ub124\ubb34 \ub178\ub798 \ud50c\ub808\uc774\uc5b4 / Hanavi Nemu Music Player",A.tM(B.yq,s,A.atv(B.Z,s,s,B.H_),s),s)}}
 A.BC.prototype={
 al(){var s=t.O
 return new A.Uw(new A.bC("youtubePlayerWidgetKey",s),new A.bC("coverPlayerWidgetKey",s))}}
